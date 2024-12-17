@@ -1,13 +1,19 @@
 Testing using a RandomNumber Array of size 1000000
 Sorting Algorithm Comparison
---------------------------------------------------------
-Algorithm        | Time Complexity   | Time Taken (s)
---------------------------------------------------------
-Binary Sort      | O(n log n)        | 3.37506
-Bubble Sort      | O(n^2)            | 20.0136
-Selection Sort   | O(n^2)            | 7.1496
---------------------------------------------------------
-
+---------------------------
+Algorithm : Binary Sort
+Time Complexity: O(n log n) 
+Time Taken (s): 3.37506
+--------------------------
+Algorithm : Bubble Sort
+Time Complexity: O(n^2) 
+Time Taken (s): 20.0136
+---------------------------
+Algorithm : Selection Sort 
+Time Complexity: O(n^2) 
+Time Taken (s): 7.1496
+----------------------------
+    
 Even though Bubble Sort and Selection Sort have the same time complexity of O(n²), the reason Bubble Sort takes more time in practice compared to Selection Sort, as shown in your table, lies in the constant factors and the nature of the algorithms. Let's break it down:
 
 Key Differences Between Bubble Sort and Selection Sort:
