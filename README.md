@@ -1,6 +1,5 @@
 Testing using a RandomNumber Array of size 1000000
 Sorting Algorithm Comparison
-
 --------------------------------------------------------
 Algorithm        | Time Complexity   | Time Taken (s)
 --------------------------------------------------------
